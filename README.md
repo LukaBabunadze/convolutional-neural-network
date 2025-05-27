@@ -91,12 +91,6 @@ python visualize_activations.py
 python adversarial_example.py
 ```
 
----
-
-> მაგალითები გენერირდება `visualize_filters.py`, `visualize_activations.py` და `adversarial_example.py` ფაილების გაშვებისას.
-
----
-
 ## ✍️ ავტორი
 
 Luka Mghebrishvili
