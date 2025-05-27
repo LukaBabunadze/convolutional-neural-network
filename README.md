@@ -93,8 +93,6 @@ python adversarial_example.py
 
 ---
 
-## 📷 ตัวอย่าง ვიზუალიზაციებიდან
-
 > მაგალითები გენერირდება `visualize_filters.py`, `visualize_activations.py` და `adversarial_example.py` ფაილების გაშვებისას.
 
 ---
