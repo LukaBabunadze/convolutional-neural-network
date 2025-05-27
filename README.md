@@ -102,5 +102,3 @@ python adversarial_example.py
 Luka Mghebrishvili
 Ilia State University – Applied Cybersecurity
 2025
-
-```
